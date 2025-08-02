@@ -11,7 +11,7 @@
 }
 
 body {
-  @apply font-sans bg-light-gray text-dark-blue;
+  @apply font-sans bg-navy text-light-gray;
 }
 
 /* custom scrollbar */
